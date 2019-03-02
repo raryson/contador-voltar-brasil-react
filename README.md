@@ -1,4 +1,4 @@
-# Counter to back to Brazil
+# Time to back to Brazil
 This repository born to counter how much time last to I return to Brazil
 
 ## How use?
